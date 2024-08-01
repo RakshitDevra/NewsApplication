@@ -1,0 +1,86 @@
+// json  view extension in chrome to view json in this form
+
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "John Fanta",
+        "title": "A boring NCAA Tournament? San Diego State, FAU dash that notion in Final Four thriller",
+        "description": "In a jaw-dropping Final Four contest on Saturday, San Diego State and FAU reminded the sports world why the NCAA Tournament is the best sporting event on the planet",
+        "url": "http://www.foxsports.com/stories/college-basketball/a-boring-ncaa-tournament-san-diego-state-fau-dash-that-notion-in-final-four-thriller",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/04/1408/814/butler-wide-040123.jpg?ve=1&tl=1",
+        "publishedAt": "2023-04-02T00:59:37Z",
+        "content": "HOUSTON ARE YOU NOT ENTERTAINED?!\r\nSorry, I couldn't resist leading off with that sentence. Not after what happened in the opening game of the Final Four on Saturday.\r\nTrailing 71-70, Brian Dutcher e… [+4549 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": null,
+        "title": "April Fools' Day 2023: Best sports posts, highlights featuring Snoop Dogg, more",
+        "description": "The Steelers \"signed\" Snoop Dogg as a wide reciver, Caleb Love wants fans to know that he is not actually joining Duke, and more!",
+        "url": "http://www.foxsports.com/stories/nfl/april-fools-day-2023-best-sports-posts-highlights-featuring-snoop-dogg-more",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/04/1408/814/04.01.23_April-Fools-Day-Sports-Roundup_Horizontal.jpg?ve=1&tl=1",
+        "publishedAt": "2023-04-02T00:15:45Z",
+        "content": "April Fools' Day is upon us, and plenty of famous players and teams are getting in on the action with some good-natured pranking. Here are some of the most viral posts from around the sports world Sa… [+1826 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "☄️ New &#x27;Hero Ball&#x27; Episode ☄️",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/371669-hero-ball-2023-allstar-special",
+        "urlToImage": null,
+        "publishedAt": "2023-02-22T21:52:16.6066431Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+        "urlToImage": null,
+        "publishedAt": "2022-12-01T18:52:49.4768049Z",
+        "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+      },
+      {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "author": "The Washington Times https://www.washingtontimes.com",
+        "title": "Latest Quizzes",
+        "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+        "url": "https://www.washingtontimes.com/quiz/",
+        "urlToImage": null,
+        "publishedAt": "2022-08-30T16:37:43.8583104Z",
+        "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+      },
+      {
+        "source": {
+          "id": "nrk",
+          "name": "NRK"
+        },
+        "author": "NRK",
+        "title": "De siste sportsnyhetene fra NRK",
+        "description": "Her får du de siste sportsnyhetene fra NRK.",
+        "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16362236.1.16362236",
+        "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+        "publishedAt": "2019-08-14T09:09:42Z",
+        "content": "2. april2023kl.13:57Det oppstod fullt kaos etter at Bahrain Victorious-rytter Filip Maciejuk kjørte ut på siden i et klissvått gress og mistet balansen.\r\nDet førte til at han kjørte inn i et stort fe… [+937 chars]"
+      }
+    ]
+  }
